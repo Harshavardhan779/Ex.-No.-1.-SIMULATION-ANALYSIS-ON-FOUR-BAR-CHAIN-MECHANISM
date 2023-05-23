@@ -53,10 +53,10 @@
 
 
 ## Output
+![OUTPUT](/pm-1.1.png)
 
-
-### Name:
-### Register Number: 
+### Name: Harsha vardhan
+### Register Number: 212222240114
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
